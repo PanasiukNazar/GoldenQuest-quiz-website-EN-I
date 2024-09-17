@@ -3579,10 +3579,10 @@ header h2 {
     justify-content: center;
     background-image: linear-gradient(
             to right,
-            rgba(210, 215, 219, 0.6),
-            rgba(192, 197, 202, 0.6)
+            rgb(0 0 0 / 60%),
+            rgb(75 75 75 / 60%)
         ),
-        url('../images/quiz.jpg');
+        url(../images/quiz.jpg);
     background-position: center, right bottom;
     background-repeat: no-repeat, no-repeat;
     height: 100%;
@@ -3638,7 +3638,11 @@ header h2 {
 .quiz-content .sub-title {
     /* color: #fa8706;
     font-weight: bold; */
+    color: #fff;
     margin-bottom: 20px;
+}
+.quiz-content h5 {
+    color: #fff;
 }
 
 @media (max-width: 540px) {
