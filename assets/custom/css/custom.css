@@ -3636,9 +3636,8 @@ header h2 {
 }
 
 .quiz-content .sub-title {
-    /* color: #fa8706;
-    font-weight: bold; */
     color: #fff;
+    font-weight: 600;
     margin-bottom: 20px;
 }
 .quiz-content h5 {
