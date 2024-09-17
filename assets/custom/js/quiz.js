@@ -170,7 +170,7 @@ const finalStep = {
                             )
                             .join('')}
                 
-                        <button data-action="submitAnswers" class="btn btn-primary w-100 py-3 first-button">Senden Sie</button>
+                        <button data-action="submitAnswers" class="btn btn-primary w-100 py-3 first-button">Send</button>
                     </form>
                 </div>
             </div>
