@@ -3643,6 +3643,7 @@ header h2 {
 }
 .quiz-content h5 {
     color: #fff;
+    font-size: 15px;
 }
 
 @media (max-width: 540px) {
